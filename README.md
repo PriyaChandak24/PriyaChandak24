@@ -7,7 +7,7 @@ Skills:  C/ C++ / Java / Python
 
 - 🔭 I’m currently working on DSA 
 - 🌱 I’m currently learning DSA (Java)
-- - 💬 Ask me about ... Programming and content wrotong
+- - 💬 Ask me about ... Programming and content writing
 - 📫 How to reach me: ... Linkedin Profile 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PriyaChandak24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/priya-chandak-ba0a6b178/)
